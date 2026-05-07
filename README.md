@@ -10,9 +10,9 @@ Javascript, HTML, CSS
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/mrwildfoxgamer/Music_app/main/images/1.jpeg)
-![App Screenshot](https://raw.githubusercontent.com/mrwildfoxgamer/Music_app/main/images/2.jpeg)
-![App Screenshot](https://raw.githubusercontent.com/mrwildfoxgamer/Music_app/main/images/3.jpeg)
+![App Screenshot](https://raw.githubusercontent.com/yafisyasar/ElCare/main/images/1.jpeg)
+![App Screenshot](https://raw.githubusercontent.com/yafisyasar/ElCare/main/images/2.jpeg)
+![App Screenshot](https://raw.githubusercontent.com/yafisyasar/ElCare/main/images/3.jpeg)
 
 ## Usage/Examples
 Create a venv (virtual environment)
