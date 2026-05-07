@@ -2,7 +2,6 @@
 # Elderly Monitoring Dashboard
 
 ElCare – Elderly Monitoring Dashboard
-This 
 
 
 ## 🛠 Tech stack
