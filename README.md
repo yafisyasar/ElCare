@@ -14,7 +14,7 @@ Javascript, HTML, CSS
 ![App Screenshot](https://raw.githubusercontent.com/yafisyasar/ElCare/main/images/3.jpeg)
 
 ## Usage/Examples
-clone this repo ,Create a venv (virtual environment)
+Create a venv (virtual environment)
 and run
 ```
 python app.py
